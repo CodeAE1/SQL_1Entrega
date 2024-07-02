@@ -28,7 +28,7 @@ CREATE TABLE Vehiculos (
     VehiculoID INT PRIMARY KEY AUTO_INCREMENT,
     Marca VARCHAR(50),
     Modelo VARCHAR(50),
-    Ano INT,
+    Anho INT,
     Precio DECIMAL(10, 2),
     ProveedorID INT,
     FOREIGN KEY (ProveedorID) REFERENCES Proveedores(ProveedorID)
