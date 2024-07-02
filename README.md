@@ -2,7 +2,7 @@
 
 ### ** 1. Descripción de la Base de Datos **
 
-###Temática:
+Temática:
 La base de datos se diseñará para gestionar las operaciones de un pequeño comercio de venta de autos. Incluye la gestión de vehículos, clientes, ventas, proveedores, y personal de la tienda.
 
 ### ** 2. Diagramas de Entidad-Relación (DER) **
