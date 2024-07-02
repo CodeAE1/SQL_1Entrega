@@ -1,4 +1,4 @@
-# Base de datos venta de Autos
+# Base de datos
 
 ### ** 1. Descripción de la Base de Datos **
 
